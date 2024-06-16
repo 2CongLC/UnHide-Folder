@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Unhide Folders
+</name>
+</assembly>
+<members>
+<member name="T:ChuCong.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ChuCong.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ChuCong.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ChuCong.Form1.GetUSB">
+ <summary>
+ Tìm kiếm thiết bị USB
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ChuCong.Form1.ResetAttribute(System.IO.FileSystemInfo)">
+ <summary>
+ Xóa bỏ thuộc tính ẩn
+ </summary>
+ <param name="fsi"></param>
+</member>
+</members>
+</doc>

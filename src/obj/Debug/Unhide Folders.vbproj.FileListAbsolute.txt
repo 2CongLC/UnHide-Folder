@@ -1,0 +1,11 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\bin\Debug\Unhide Folders.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\bin\Debug\Unhide Folders.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\bin\Debug\Unhide Folders.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\bin\Debug\Unhide Folders.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\Unhide Folders.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\Unhide Folders.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\Unhide Folders.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\Unhide Folders.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\Unhide Folders.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Unhide Folders\obj\Debug\ChuCong.Resources.resources
